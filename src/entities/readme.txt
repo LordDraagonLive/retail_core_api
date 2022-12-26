@@ -1,0 +1,1 @@
+// The entities layer encapsulates all the structures that will be used by the services layer. Each service has its own group of entities.
